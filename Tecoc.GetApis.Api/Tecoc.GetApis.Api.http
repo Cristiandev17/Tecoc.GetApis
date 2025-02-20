@@ -1,0 +1,6 @@
+@Tecoc.GetApis.Api_HostAddress = http://localhost:5048
+
+GET {{Tecoc.GetApis.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
